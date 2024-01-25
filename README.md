@@ -1,0 +1,3 @@
+# BingScraper
+
+Scraping from Bing
